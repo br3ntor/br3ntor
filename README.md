@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.icons8.com/?size=512&id=wtEAYiCLYgtq&format=png" width="24px" align="center"> [Discord (Br3ntor#7168)](https://discord.gg)<br />
+
 ```
  ───────────────────────────────────────
 ───▐▀▄───────▄▀▌───▄▄▄▄▄▄▄─────────────
